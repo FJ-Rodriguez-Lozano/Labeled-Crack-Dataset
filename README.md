@@ -5,12 +5,11 @@ This this repository contains the index files with label of several images of se
 
 
 * **File: Cubero-Fernandez-et-al-label-index.txt**
-
--Total labels: 600 labels.
-  - 100 alligator crack labels (*G-alligator*).
-  - 200 transverse crack labels (*G-Transverse*).
-  - 200 longitudinal crack labels (*G-Longitudinal*)
-  - 100 Healthy pavement lables (*Healthy-pavement*)
+  * Total labels: 600 labels.
+    - 100 alligator crack labels (*G-alligator*).
+    - 200 transverse crack labels (*G-Transverse*).
+    - 200 longitudinal crack labels (*G-Longitudinal*)
+    - 100 Healthy pavement lables (*Healthy-pavement*)
 
 The original images of the datasets can be found in the author’s respective works: 
 
