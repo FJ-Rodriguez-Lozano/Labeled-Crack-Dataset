@@ -68,10 +68,11 @@ This this repository contains the index files with label of several images of se
   * The original images of the datasets can be found in the author’s respective work: 
     * *Q. Zou, Y. Cao, Q. Li, Q. Mao, and S. Wang, “CrackTree: Automatic crack detection from pavement images,” Pattern Recognition Letters, vol. 33, no. 3, pp. 227–238, Feb. 2012.*
 
+## Data availability
+This repository is not responsible for the availability of the data of the works of other authors or the possible modifications that they could make.
 
-NOTE: The authors of this document are not responsible for the availability of the data of the works of other authors or the possible modifications that they could make.
-
-
+## License
+This dataset is licensed by the author under a CC BY-SA 4.0 license [https://creativecommons.org/licenses/by-sa/4.0/deed.en](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 https://www.irit.fr/~Sylvie.Chambon/TEMPEST2.html
 
