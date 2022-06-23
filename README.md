@@ -1,5 +1,5 @@
 # Labeled-Crack-Dataset
-index files for pavement crack databases
+*Index files for pavement crack databases*
 
 This this repository contains the index files with label of several images of seven datasets. This only contains the image name and the corresponding label into the following classes: *G-alligator, G-Transverse, G-Longitudinal, Healthy-pavement*.
 
