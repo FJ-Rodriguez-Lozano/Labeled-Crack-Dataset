@@ -74,7 +74,7 @@ The content of this repository is no related to the availability of the data of 
 
 ## License
 This dataset is not licensed but if you use in your work consider to cite the following work:
-CITATION TO DE PUBLISHED WORK
+CITATION TO PUBLISHED WORK
 
 
 
