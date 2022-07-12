@@ -69,7 +69,7 @@ This this repository contains the index files with label of several images of se
   * The original images of the datasets can be found in the author’s respective work: 
     * *Q. Zou, Y. Cao, Q. Li, Q. Mao, and S. Wang, “CrackTree: Automatic crack detection from pavement images,” Pattern Recognition Letters, vol. 33, no. 3, pp. 227–238, Feb. 2012.*
 
-The datasets folder contains the datasets in ".csv" for each of the data dimensionality reduction methods used in the five datasets used in our work.
+The **DS folder** contains ".zip" files representing the five datasets used in our work. These datasets only contains ".csv" files with the data resulting of the application of each data dimensionality reduction methods used in out work. The original images of each dataset are the property of the authors of their respective works as shown in the list above and can be publicly accessed.
 
 ## Data availability
 The content of this repository is no related to the availability of the data of the works of other authors or the possible modifications that they could make.
