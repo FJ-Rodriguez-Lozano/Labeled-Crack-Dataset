@@ -1,0 +1,2474 @@
+Naive Bayes with DS1 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 182  12   6   0 |   a = Transverse
+  42 147   9   2 |   b = Longitudinal
+  50   0  50   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 145  50   5   0 |   a = Transverse
+  16 179   3   2 |   b = Longitudinal
+   0  50  50   0 |   c = Healthy
+   0   0  17  83 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 144  51   5   0 |   a = Transverse
+  14 181   3   2 |   b = Longitudinal
+   0  50  50   0 |   c = Healthy
+   0   0  17  83 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 182  12   6   0 |   a = Transverse
+   5 188   5   2 |   b = Longitudinal
+  52  10   6  32 |   c = Healthy
+   7  13   4  76 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 168  32   0   0 |   a = Transverse
+  89 107   4   0 |   b = Longitudinal
+  50   0  35  15 |   c = Healthy
+   0   0   7  93 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 128  38  15  19 |   a = Transverse
+  47 132   7  14 |   b = Longitudinal
+   0   2  48  50 |   c = Healthy
+   0  11   0  89 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: PP
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+  0  0  0  0 |  a = Transverse
+  0  0  4  0 |  b = Longitudinal
+  0  0 33  2 |  c = Healthy
+  0  0  0  1 |  d = Alligator
+
+==========================================
+
+Naive Bayes with DS1 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 196   4   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 195   4   1   0 |   a = Transverse
+   2 196   1   1 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   1  99 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 179  21   0   0 |   a = Transverse
+  11 189   0   0 |   b = Longitudinal
+   0   0  98   2 |   c = Healthy
+   0   0   3  97 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 179  21   0   0 |   a = Transverse
+  12 188   0   0 |   b = Longitudinal
+   0   0  98   2 |   c = Healthy
+   0   0   3  97 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 190   3   2   5 |   a = Transverse
+   2 192   5   1 |   b = Longitudinal
+   6   6  88   0 |   c = Healthy
+   1   3   2  94 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 166  34   0   0 |   a = Transverse
+  46 153   0   1 |   b = Longitudinal
+   0   0  99   1 |   c = Healthy
+   0   0   6  94 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 189  10   0   1 |   a = Transverse
+  11 185   1   3 |   b = Longitudinal
+   0   1  88  11 |   c = Healthy
+   0   0  19  81 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+KNN with DS1 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 186  14   0   0 |   a = Transverse
+  12 188   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 182  18   0   0 |   a = Transverse
+  14 186   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   4  96 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 179  21   0   0 |   a = Transverse
+  10 190   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   4  96 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 179  10   9   2 |   a = Transverse
+   5 178   8   9 |   b = Longitudinal
+  27   9  56   8 |   c = Healthy
+   2   5   4  89 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 159  40   1   0 |   a = Transverse
+  49 150   1   0 |   b = Longitudinal
+   2   0  94   4 |   c = Healthy
+   0   0   3  97 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 162  34   4   0 |   a = Transverse
+  38 155   4   3 |   b = Longitudinal
+   4   6  73  17 |   c = Healthy
+   1   1  20  78 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 194   5   1   0 |   a = Transverse
+   8 188   3   1 |   b = Longitudinal
+   4  17  78   1 |   c = Healthy
+   1   1   8  90 |   d = Alligator
+
+==========================================
+
+BFTree with DS1 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 198   2   0 |   b = Longitudinal
+   0   2  98   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 199   0   0   1 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   1  99   0 |   c = Healthy
+   0   0   1  99 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 183  17   0   0 |   a = Transverse
+  15 184   0   1 |   b = Longitudinal
+   0   1  97   2 |   c = Healthy
+   0   0   3  97 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 180  20   0   0 |   a = Transverse
+  10 188   1   1 |   b = Longitudinal
+   0   1  95   4 |   c = Healthy
+   0   0   4  96 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 180  20   0   0 |   a = Transverse
+  10 189   1   0 |   b = Longitudinal
+   0   1  96   3 |   c = Healthy
+   0   0   3  97 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 177   8  13   2 |   a = Transverse
+   6 182   8   4 |   b = Longitudinal
+  23   4  64   9 |   c = Healthy
+   1   5   6  88 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 160  39   1   0 |   a = Transverse
+  59 137   4   0 |   b = Longitudinal
+   2   2  91   5 |   c = Healthy
+   0   3   7  90 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 161  37   1   1 |   a = Transverse
+  30 161   1   8 |   b = Longitudinal
+   1   5  80  14 |   c = Healthy
+   2   0  30  68 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 198   1   1   0 |   a = Transverse
+   4 195   0   1 |   b = Longitudinal
+   3   1  93   3 |   c = Healthy
+   0   1  10  89 |   d = Alligator
+
+==========================================
+
+PART with DS1 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 198   0   2   0 |   a = Transverse
+   0 199   1   0 |   b = Longitudinal
+   0   1  99   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 200   0   0 |   b = Longitudinal
+   0   0 100   0 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 123  77   0   0 |   a = Transverse
+ 110  90   0   0 |   b = Longitudinal
+  49   1  44   6 |   c = Healthy
+   0   0  26  74 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 127  73   0   0 |   a = Transverse
+ 106  94   0   0 |   b = Longitudinal
+  46   4  38  12 |   c = Healthy
+   0   0  40  60 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 126  74   0   0 |   a = Transverse
+ 106  94   0   0 |   b = Longitudinal
+  46   4  38  12 |   c = Healthy
+   0   0  40  60 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 174  22   1   3 |   a = Transverse
+   8 178   2  12 |   b = Longitudinal
+  42  15  11  32 |   c = Healthy
+   1   3  14  82 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 150  50   0   0 |   a = Transverse
+  76 124   0   0 |   b = Longitudinal
+  50   0  11  39 |   c = Healthy
+   0   0   4  96 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 128  72   0   0 |   a = Transverse
+  85 113   0   2 |   b = Longitudinal
+  23  50   0  27 |   c = Healthy
+   5   0   0  95 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 168  32   0   0 |   a = Transverse
+  71 129   0   0 |   b = Longitudinal
+  50   0  50   0 |   c = Healthy
+   0   0   1  99 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS1 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 200   0   0   0 |   a = Transverse
+   0 198   0   2 |   b = Longitudinal
+  49  18  19  14 |   c = Healthy
+   0   0   0 100 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 890  25  13   0 |   a = Healthy
+  16 547  27   0 |   b = Longitudinal
+  10  29 519   0 |   c = Transverse
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 880  48   0   0 |   a = Healthy
+   0 542   0  48 |   b = Longitudinal
+   0  15 474  69 |   c = Transverse
+   0  23   8 349 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 894   0  34   0 |   a = Healthy
+   0 444 127  19 |   b = Longitudinal
+   0  52 482  24 |   c = Transverse
+   0  14  11 355 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 890   0  38   0 |   a = Healthy
+   0 446 125  19 |   b = Longitudinal
+   0  49 485  24 |   c = Transverse
+   0  16   8 356 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 664  69 193   2 |   a = Healthy
+   1 487  97   5 |   b = Longitudinal
+  78  33 435  12 |   c = Transverse
+   0  22  11 347 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 892   0  36   0 |   a = Healthy
+   0 346 225  19 |   b = Longitudinal
+   0 147 385  26 |   c = Transverse
+   0  14  13 353 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 787 106  35   0 |   a = Healthy
+   3 403 175   9 |   b = Longitudinal
+   0 149 396  13 |   c = Transverse
+   0  12  18 350 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: PP
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+  0  0  0  0 |  a = Healthy
+  0  0  0  0 |  b = Longitudinal
+  0  0  0 22 |  c = Transverse
+  0  0  0 69 |  d = Alligator
+
+==========================================
+
+Naive Bayes with DS2 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 901   2  25   0 |   a = Healthy
+   0 554  11  25 |   b = Longitudinal
+   0   6 540  12 |   c = Transverse
+   0  63  13 304 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 887  24  17   0 |   a = Healthy
+  26 530  34   0 |   b = Longitudinal
+  13  28 517   0 |   c = Transverse
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+  17 568   5   0 |   b = Longitudinal
+   9   2 547   0 |   c = Transverse
+   0 127  77 176 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   1 532  43  14 |   b = Longitudinal
+   0  32 521   5 |   c = Transverse
+   0  16   9 355 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   2 531  43  14 |   b = Longitudinal
+   0  31 522   5 |   c = Transverse
+   0  16   9 355 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 918   7   3   0 |   a = Healthy
+   3 579   4   4 |   b = Longitudinal
+   0   2 552   4 |   c = Transverse
+   0   8   4 368 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   1 402 174  13 |   b = Longitudinal
+   1 161 388   8 |   c = Transverse
+   0  10   5 365 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 900  20   8   0 |   a = Healthy
+  17 542  20  11 |   b = Longitudinal
+   8  22 519   9 |   c = Transverse
+   0   2  11 367 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+  12 569   6   3 |   b = Longitudinal
+   4   2 551   1 |   c = Transverse
+   0   8   4 368 |   d = Alligator
+
+==========================================
+
+KNN with DS2 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   2 568   8  12 |   b = Longitudinal
+   2   3 549   4 |   c = Transverse
+   0   5   1 374 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 894  22  12   0 |   a = Healthy
+  32 526  32   0 |   b = Longitudinal
+  18  23 517   0 |   c = Transverse
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   0 524  60   6 |   b = Longitudinal
+   0  36 515   7 |   c = Transverse
+   0  14  10 356 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   0 523  57  10 |   b = Longitudinal
+   0  59 491   8 |   c = Transverse
+   0   9  10 361 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   0 519  63   8 |   b = Longitudinal
+   0  56 493   9 |   c = Transverse
+   0   9   8 363 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 869  26  28   5 |   a = Healthy
+  26 550   6   8 |   b = Longitudinal
+  26   5 518   9 |   c = Transverse
+   1  17   7 355 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 925   2   1   0 |   a = Healthy
+   2 403 172  13 |   b = Longitudinal
+   7 200 344   7 |   c = Transverse
+   0   8  10 362 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 887  28  13   0 |   a = Healthy
+  16 530  33  11 |   b = Longitudinal
+  11  41 489  17 |   c = Transverse
+   0  13  16 351 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 913  14   1   0 |   a = Healthy
+  13 523  34  20 |   b = Longitudinal
+  16  31 500  11 |   c = Transverse
+   0  10  15 355 |   d = Alligator
+
+==========================================
+
+BFTree with DS2 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 926   2   0   0 |   a = Healthy
+   3 556   6  25 |   b = Longitudinal
+   2   5 541  10 |   c = Transverse
+   0  18   5 357 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 881  28  19   0 |   a = Healthy
+  23 536  31   0 |   b = Longitudinal
+  18  18 521   1 |   c = Transverse
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 927   1   0   0 |   a = Healthy
+   0 540  38  12 |   b = Longitudinal
+   0  35 514   9 |   c = Transverse
+   0  11   7 362 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 927   1   0   0 |   a = Healthy
+   0 511  68  11 |   b = Longitudinal
+   0  51 495  12 |   c = Transverse
+   0  11  10 359 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 927   0   1   0 |   a = Healthy
+   0 500  79  11 |   b = Longitudinal
+   0  42 503  13 |   c = Transverse
+   0  11  11 358 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 869  33  21   5 |   a = Healthy
+  18 560   2  10 |   b = Longitudinal
+  22   8 526   2 |   c = Transverse
+   1  14   5 360 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 924   1   3   0 |   a = Healthy
+   2 382 196  10 |   b = Longitudinal
+   2 192 357   7 |   c = Transverse
+   0  11   4 365 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 897  20  11   0 |   a = Healthy
+  18 530  30  12 |   b = Longitudinal
+  18  33 491  16 |   c = Transverse
+   1   7   8 364 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 922   3   3   0 |   a = Healthy
+   4 542  26  18 |   b = Longitudinal
+   3  20 519  16 |   c = Transverse
+   0  11   6 363 |   d = Alligator
+
+==========================================
+
+PART with DS2 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 926   2   0   0 |   a = Healthy
+   2 556  10  22 |   b = Longitudinal
+   0   4 547   7 |   c = Transverse
+   0  15   6 359 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 898  21   9   0 |   a = Healthy
+  34 528  28   0 |   b = Longitudinal
+  15  28 515   0 |   c = Transverse
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   2 351 225  12 |   b = Longitudinal
+   2 109 439   8 |   c = Transverse
+   0   6  11 363 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   2 312 267   9 |   b = Longitudinal
+   3 118 427  10 |   c = Transverse
+   0  10   7 363 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   2 307 272   9 |   b = Longitudinal
+   3 106 440   9 |   c = Transverse
+   0  10   7 363 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 736  61  98  33 |   a = Healthy
+ 130 375  72  13 |   b = Longitudinal
+ 113  50 379  16 |   c = Transverse
+   3  21  22 334 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   5 368 207  10 |   b = Longitudinal
+   5 191 353   9 |   c = Transverse
+   0   9   5 366 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 764 138  26   0 |   a = Healthy
+  41 329 211   9 |   b = Longitudinal
+  15 138 392  13 |   c = Transverse
+   0   0   9 371 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   2 396 180  12 |   b = Longitudinal
+   2 148 402   6 |   c = Transverse
+   0  11   9 360 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS2 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 928   0   0   0 |   a = Healthy
+   9 560   5  16 |   b = Longitudinal
+   3   6 542   7 |   c = Transverse
+   0  49  18 313 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1200  142   19    3 |    a = Transverse
+  182  794   35    0 |    b = Longitudinal
+   20   31  882    0 |    c = Healthy
+    2    1    0  389 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1257    3    0  104 |    a = Transverse
+  175  783    0   53 |    b = Longitudinal
+   23    1  909    0 |    c = Healthy
+   61   62    0  269 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 772 582   0  10 |   a = Transverse
+  34 957   0  20 |   b = Longitudinal
+   0  16 917   0 |   c = Healthy
+  67  72   0 253 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 776 578   0  10 |   a = Transverse
+  34 957   0  20 |   b = Longitudinal
+   0  15 918   0 |   c = Healthy
+  67  72   0 253 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1255   39   56   14 |    a = Transverse
+   91  889   18   13 |    b = Longitudinal
+   96   92  743    2 |    c = Healthy
+   11   15    0  366 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 581 719   0  64 |   a = Transverse
+ 222 766   0  23 |   b = Longitudinal
+   0  18 915   0 |   c = Healthy
+ 147   5   0 240 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1124  218    4   18 |    a = Transverse
+  423  569    1   18 |    b = Longitudinal
+   40   92  801    0 |    c = Healthy
+   19    8    0  365 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: PP
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+  0  0  0 13 |  a = Transverse
+  0  1  0  7 |  b = Longitudinal
+  0  0  0  0 |  c = Healthy
+  0  0  0 73 |  d = Alligator
+
+==========================================
+
+Naive Bayes with DS3 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1270   36    0   58 |    a = Transverse
+   18  953    0   40 |    b = Longitudinal
+    0   18  915    0 |    c = Healthy
+   51   71    0  270 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1087  227   47    3 |    a = Transverse
+  217  751   43    0 |    b = Longitudinal
+   42   34  857    0 |    c = Healthy
+    5    0    0  387 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1312   21   23    8 |    a = Transverse
+   17  963   29    2 |    b = Longitudinal
+    0    2  931    0 |    c = Healthy
+   59   69    0  264 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1266   79    1   18 |    a = Transverse
+   85  897    2   27 |    b = Longitudinal
+    1    2  930    0 |    c = Healthy
+   17   21    0  354 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1267   77    1   19 |    a = Transverse
+   83  899    2   27 |    b = Longitudinal
+    1    2  930    0 |    c = Healthy
+   17   22    0  353 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1330   17    1   16 |    a = Transverse
+   20  961   15   15 |    b = Longitudinal
+    5   15  911    2 |    c = Healthy
+   16   14    0  362 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1158  183    1   22 |    a = Transverse
+  194  806    3    8 |    b = Longitudinal
+    1    1  931    0 |    c = Healthy
+   16   13    0  363 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1278   67    4   15 |    a = Transverse
+   82  901    6   22 |    b = Longitudinal
+   13   27  893    0 |    c = Healthy
+   15   15    0  362 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1326   12   10   16 |    a = Transverse
+   29  946   29    7 |    b = Longitudinal
+    0    2  931    0 |    c = Healthy
+   12   14    0  366 |    d = Alligator
+
+==========================================
+
+KNN with DS3 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1310   24    1   29 |    a = Transverse
+   26  962    6   17 |    b = Longitudinal
+    2    3  928    0 |    c = Healthy
+   18   13    0  361 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1207  115   40    2 |    a = Transverse
+  214  746   50    1 |    b = Longitudinal
+   27   15  891    0 |    c = Healthy
+    1    2    0  389 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1244   92    1   27 |    a = Transverse
+   94  890    0   27 |    b = Longitudinal
+    0    2  931    0 |    c = Healthy
+   39   33    0  320 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1246   98    1   19 |    a = Transverse
+  124  862    0   25 |    b = Longitudinal
+    1    1  931    0 |    c = Healthy
+   33   37    0  322 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1249   96    1   18 |    a = Transverse
+  124  862    0   25 |    b = Longitudinal
+    1    1  931    0 |    c = Healthy
+   34   33    0  325 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1329   14    9   12 |    a = Transverse
+   23  960   13   15 |    b = Longitudinal
+   13   31  887    2 |    c = Healthy
+   14   16    1  361 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1125  205    6   28 |    a = Transverse
+  244  755    2   10 |    b = Longitudinal
+    4    2  927    0 |    c = Healthy
+   23   12    0  357 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1245   87   12   20 |    a = Transverse
+  111  861   21   18 |    b = Longitudinal
+   20   47  866    0 |    c = Healthy
+   19   14    0  359 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1275   60   16   13 |    a = Transverse
+   72  897   16   26 |    b = Longitudinal
+   10    7  916    0 |    c = Healthy
+   23   17    0  352 |    d = Alligator
+
+==========================================
+
+BFTree with DS3 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1314   21    1   28 |    a = Transverse
+   23  959    4   25 |    b = Longitudinal
+    1    4  928    0 |    c = Healthy
+   25   25    0  342 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1221  100   39    4 |    a = Transverse
+  207  756   47    1 |    b = Longitudinal
+   24   18  891    0 |    c = Healthy
+    4    1    0  387 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1263   80    1   20 |    a = Transverse
+   76  914    2   19 |    b = Longitudinal
+    0    3  930    0 |    c = Healthy
+   21   24    0  347 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1245   96    2   21 |    a = Transverse
+  102  877    0   32 |    b = Longitudinal
+    1    2  930    0 |    c = Healthy
+   14   24    0  354 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1243   93    2   26 |    a = Transverse
+  100  878    0   33 |    b = Longitudinal
+    1    2  930    0 |    c = Healthy
+   19   27    0  346 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1328   14   10   12 |    a = Transverse
+   23  959   15   14 |    b = Longitudinal
+   13   22  896    2 |    c = Healthy
+    9   12    1  370 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1149  185    2   28 |    a = Transverse
+  273  727    0   11 |    b = Longitudinal
+    2    2  929    0 |    c = Healthy
+   18   13    0  361 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1247   80   19   18 |    a = Transverse
+  111  854   24   22 |    b = Longitudinal
+   24   36  873    0 |    c = Healthy
+   15   13    0  364 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1288   49    6   21 |    a = Transverse
+   40  941    9   21 |    b = Longitudinal
+    8   13  912    0 |    c = Healthy
+   23   23    0  346 |    d = Alligator
+
+==========================================
+
+PART with DS3 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1308   25    1   30 |    a = Transverse
+   22  964    3   22 |    b = Longitudinal
+    1    4  928    0 |    c = Healthy
+   21   29    0  342 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1135  116  110    3 |    a = Transverse
+  154  725  132    0 |    b = Longitudinal
+    9   10  914    0 |    c = Healthy
+    2    1    0  389 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1286   12    6   60 |    a = Transverse
+  901   66   12   32 |    b = Longitudinal
+    2    0  931    0 |    c = Healthy
+  124    7    0  261 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1297    1    5   61 |    a = Transverse
+  978    3   13   17 |    b = Longitudinal
+    2    0  931    0 |    c = Healthy
+  168    0    0  224 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1296    1    5   62 |    a = Transverse
+  978    3   13   17 |    b = Longitudinal
+    2    0  931    0 |    c = Healthy
+  168    0    0  224 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1202  100   47   15 |    a = Transverse
+  109  890    1   11 |    b = Longitudinal
+  109   54  766    4 |    c = Healthy
+   20   24    0  348 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1290    3    6   65 |    a = Transverse
+  960   12   17   22 |    b = Longitudinal
+    0    1  932    0 |    c = Healthy
+  163    0    0  229 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1007  296   42   19 |    a = Transverse
+  536  422   38   15 |    b = Longitudinal
+   76   79  778    0 |    c = Healthy
+   13    5    0  374 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1263   56    6   39 |    a = Transverse
+  776  197   12   26 |    b = Longitudinal
+    2    0  931    0 |    c = Healthy
+  118   17    0  257 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS3 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1317   14   16   17 |    a = Transverse
+   18  961   16   16 |    b = Longitudinal
+    0    2  931    0 |    c = Healthy
+   51   90    0  251 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 595  74  23   1 |   a = Transverse
+  80 900  17   0 |   b = Longitudinal
+  25  20 884   0 |   c = Healthy
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 611   1   1  80 |   a = Transverse
+  78 824   5  90 |   b = Longitudinal
+  44   0 885   0 |   c = Healthy
+   9  20   0 351 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 610  58   0  25 |   a = Transverse
+ 156 812   1  28 |   b = Longitudinal
+  32   0 897   0 |   c = Healthy
+  12   6   0 362 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 610  58   0  25 |   a = Transverse
+ 156 811   1  29 |   b = Longitudinal
+  31   0 898   0 |   c = Healthy
+  12   6   0 362 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 514 112  67   0 |   a = Transverse
+ 158 792  45   2 |   b = Longitudinal
+ 140  91 694   4 |   c = Healthy
+   1  62   0 317 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 153 517   0  23 |   a = Transverse
+ 123 840   4  30 |   b = Longitudinal
+   0  32 897   0 |   c = Healthy
+  10  18   0 352 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 375 287   9  22 |   a = Transverse
+ 105 881   1  10 |   b = Longitudinal
+  21 123 785   0 |   c = Healthy
+  30  25   0 325 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: PP
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+  0  0  0 23 |  a = Transverse
+  0  0  0  0 |  b = Longitudinal
+  0  0  0  0 |  c = Healthy
+  0  0  0 71 |  d = Alligator
+
+==========================================
+
+Naive Bayes with DS4 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 663  16   0  14 |   a = Transverse
+  12 956   4  25 |   b = Longitudinal
+   1  31 897   0 |   c = Healthy
+  14  44   0 322 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 555  98  40   0 |   a = Transverse
+  98 863  36   0 |   b = Longitudinal
+  35  32 862   0 |   c = Healthy
+   0   1   0 379 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 660  15  17   1 |   a = Transverse
+  11 941  44   1 |   b = Longitudinal
+   1   2 926   0 |   c = Healthy
+  83 127   0 170 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 614  68   3   8 |   a = Transverse
+  60 919   7  11 |   b = Longitudinal
+   0   7 922   0 |   c = Healthy
+  20  13   0 347 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 613  68   3   9 |   a = Transverse
+  57 922   7  11 |   b = Longitudinal
+   0   7 922   0 |   c = Healthy
+  19  13   0 348 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 675  13   3   2 |   a = Transverse
+  10 963  19   5 |   b = Longitudinal
+   6  13 909   1 |   c = Healthy
+   3   8   0 369 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 434 249   2   8 |   a = Transverse
+ 254 728   9   6 |   b = Longitudinal
+   0   9 920   0 |   c = Healthy
+   4   7   0 369 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 588  72  12  21 |   a = Transverse
+  76 893  15  13 |   b = Longitudinal
+  21  20 887   1 |   c = Healthy
+  19   9   0 352 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 667  17   8   1 |   a = Transverse
+  11 958  26   2 |   b = Longitudinal
+   1   0 928   0 |   c = Healthy
+   5   8   0 367 |   d = Alligator
+
+==========================================
+
+KNN with DS4 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 675  12   2   4 |   a = Transverse
+  11 965  11  10 |   b = Longitudinal
+   0  10 919   0 |   c = Healthy
+   5   6   0 369 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 574  80  39   0 |   a = Transverse
+  86 881  30   0 |   b = Longitudinal
+  33  17 879   0 |   c = Healthy
+   0   1   0 379 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 604  80   1   8 |   a = Transverse
+  58 919   5  15 |   b = Longitudinal
+   1   2 926   0 |   c = Healthy
+   5  18   0 357 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 596  92   1   4 |   a = Transverse
+  76 908   4   9 |   b = Longitudinal
+   2   2 925   0 |   c = Healthy
+  15  11   0 354 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 596  90   0   7 |   a = Transverse
+  77 908   3   9 |   b = Longitudinal
+   0   3 926   0 |   c = Healthy
+  18  10   0 352 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 659  16  17   1 |   a = Transverse
+  18 953  21   5 |   b = Longitudinal
+  38  40 846   5 |   c = Healthy
+   0  13   8 359 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 446 239   0   8 |   a = Transverse
+ 280 688  12  17 |   b = Longitudinal
+   7  12 910   0 |   c = Healthy
+   6  14   0 360 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 535 107  21  30 |   a = Transverse
+  93 859  31  14 |   b = Longitudinal
+  30  28 871   0 |   c = Healthy
+  21  12   0 347 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 614  58   7  14 |   a = Transverse
+  57 901  19  20 |   b = Longitudinal
+   7  15 907   0 |   c = Healthy
+  18  10   0 352 |   d = Alligator
+
+==========================================
+
+BFTree with DS4 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 672  12   2   7 |   a = Transverse
+  10 963   9  15 |   b = Longitudinal
+   3   4 922   0 |   c = Healthy
+   8  17   0 355 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 582  77  33   1 |   a = Transverse
+  85 894  18   0 |   b = Longitudinal
+  45  13 871   0 |   c = Healthy
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 630  57   0   6 |   a = Transverse
+  58 926   3  10 |   b = Longitudinal
+   1   6 922   0 |   c = Healthy
+  10  10   0 360 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 595  89   0   9 |   a = Transverse
+  67 916   5   9 |   b = Longitudinal
+   0   7 922   0 |   c = Healthy
+  15  10   0 355 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 615  69   0   9 |   a = Transverse
+  82 900   4  11 |   b = Longitudinal
+   0   4 925   0 |   c = Healthy
+  14   9   0 357 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 649  15  28   1 |   a = Transverse
+   9 939  40   9 |   b = Longitudinal
+  28  39 858   4 |   c = Healthy
+   3  11   3 363 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 448 239   1   5 |   a = Transverse
+ 310 667   9  11 |   b = Longitudinal
+   2  10 917   0 |   c = Healthy
+   9   8   0 363 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 544  94  25  30 |   a = Transverse
+ 113 843  29  12 |   b = Longitudinal
+  26  25 878   0 |   c = Healthy
+  21   9   2 348 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 633  31  10  19 |   a = Transverse
+  37 929   7  24 |   b = Longitudinal
+   9   9 911   0 |   c = Healthy
+  12   9   0 359 |   d = Alligator
+
+==========================================
+
+PART with DS4 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 669  15   3   6 |   a = Transverse
+  10 954  11  22 |   b = Longitudinal
+   1   8 920   0 |   c = Healthy
+  12  16   0 352 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: LDA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 558  72  63   0 |   a = Transverse
+  63 893  41   0 |   b = Longitudinal
+  18  17 894   0 |   c = Healthy
+   0   0   0 380 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: PCA
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 146 531   9   7 |   a = Transverse
+ 106 825  55  11 |   b = Longitudinal
+   0   1 928   0 |   c = Healthy
+  10   7   0 363 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   7 666   9  11 |   a = Transverse
+   7 923  57  10 |   b = Longitudinal
+   0   1 928   0 |   c = Healthy
+   2  17   0 361 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: SVD
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   7 666   9  11 |   a = Transverse
+   7 924  56  10 |   b = Longitudinal
+   0   1 928   0 |   c = Healthy
+   2  17   0 361 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: TSNE
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 459  64 162   8 |   a = Transverse
+ 138 783  59  17 |   b = Longitudinal
+ 151  92 658  28 |   c = Healthy
+   1  67  10 302 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: MDS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   0 679   5   9 |   a = Transverse
+   1 954  33   9 |   b = Longitudinal
+   0   1 928   0 |   c = Healthy
+   2  14   0 364 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 322 331  15  25 |   a = Transverse
+ 196 749  45   7 |   b = Longitudinal
+   5 143 781   0 |   c = Healthy
+  29   0   0 351 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: PP
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 169 509   9   6 |   a = Transverse
+ 105 821  59  12 |   b = Longitudinal
+   0   1 928   0 |   c = Healthy
+  10  12   0 358 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS4 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 661  10  15   7 |   a = Transverse
+   5 928  51  13 |   b = Longitudinal
+   1   2 926   0 |   c = Healthy
+  20  52   0 308 |   d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1202  264   30    3 |    a = Transverse
+  247 1111   57    3 |    b = Longitudinal
+    5   49  880    0 |    c = Healthy
+    5    0    0  387 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1362    3    2  132 |    a = Transverse
+  144 1162    9  103 |    b = Longitudinal
+   22    2  910    0 |    c = Healthy
+   54   56    0  282 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  796  693    0   10 |    a = Transverse
+   38 1342    9   29 |    b = Longitudinal
+    0   12  922    0 |    c = Healthy
+   78   54    0  260 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  803  686    0   10 |    a = Transverse
+   38 1345    8   27 |    b = Longitudinal
+    0   13  921    0 |    c = Healthy
+   79   53    0  260 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1374   52    1   72 |    a = Transverse
+  179 1225    6    8 |    b = Longitudinal
+   17   74  843    0 |    c = Healthy
+   15    7    0  370 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  438  961    0  100 |    a = Transverse
+  209 1155    6   48 |    b = Longitudinal
+    0   25  909    0 |    c = Healthy
+  142   12    0  238 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1285  201    3   10 |    a = Transverse
+  187 1210    2   19 |    b = Longitudinal
+   32  110  791    1 |    c = Healthy
+   39   32    0  321 |    d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: PP
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+  0  0  0 14 |  a = Transverse
+  0  0  0  8 |  b = Longitudinal
+  0  0  0  0 |  c = Healthy
+  0  0  0 73 |  d = Alligator
+
+==========================================
+
+Naive Bayes with DS5 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1375   64    0   60 |    a = Transverse
+   15 1351    6   46 |    b = Longitudinal
+    1   15  918    0 |    c = Healthy
+   48   67    0  277 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1123  336   34    6 |    a = Transverse
+  367  989   60    2 |    b = Longitudinal
+   27   53  854    0 |    c = Healthy
+    6    2    0  384 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1425   45   24    5 |    a = Transverse
+   28 1330   58    2 |    b = Longitudinal
+    1    5  928    0 |    c = Healthy
+   65   90    0  237 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1362  114    2   21 |    a = Transverse
+  123 1255    6   34 |    b = Longitudinal
+    1    7  926    0 |    c = Healthy
+   16   26    0  350 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1360  116    2   21 |    a = Transverse
+  122 1256    6   34 |    b = Longitudinal
+    1    7  926    0 |    c = Healthy
+   16   27    0  349 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1455   24    4   16 |    a = Transverse
+   21 1374   14    9 |    b = Longitudinal
+    5   14  914    1 |    c = Healthy
+   14   13    0  365 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1209  262    4   24 |    a = Transverse
+  292 1113    1   12 |    b = Longitudinal
+    1    4  929    0 |    c = Healthy
+   20    9    0  363 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1402   55    8   34 |    a = Transverse
+   65 1287   42   24 |    b = Longitudinal
+   14   48  872    0 |    c = Healthy
+   23   14    0  355 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1445   28   12   14 |    a = Transverse
+   29 1345   34   10 |    b = Longitudinal
+    1    4  929    0 |    c = Healthy
+   12   14    0  366 |    d = Alligator
+
+==========================================
+
+KNN with DS5 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1437   33    3   26 |    a = Transverse
+   35 1352   13   18 |    b = Longitudinal
+    3   11  920    0 |    c = Healthy
+   18   15    0  359 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1226  249   21    3 |    a = Transverse
+  290 1095   32    1 |    b = Longitudinal
+   19   62  853    0 |    c = Healthy
+    1    2    2  387 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1365  106    2   26 |    a = Transverse
+  116 1276    5   21 |    b = Longitudinal
+    0    5  929    0 |    c = Healthy
+   27   30    0  335 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1329  149    1   20 |    a = Transverse
+  137 1242    7   32 |    b = Longitudinal
+    0    3  931    0 |    c = Healthy
+   20   33    0  339 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1348  126    1   24 |    a = Transverse
+  138 1246    7   27 |    b = Longitudinal
+    2    5  927    0 |    c = Healthy
+   20   30    0  342 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1456   27    5   11 |    a = Transverse
+   39 1351   19    9 |    b = Longitudinal
+   14   42  877    1 |    c = Healthy
+   13   14    0  365 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1175  294    3   27 |    a = Transverse
+  299 1106    7    6 |    b = Longitudinal
+    3   14  917    0 |    c = Healthy
+   21    9    0  362 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1392   61   20   26 |    a = Transverse
+  104 1260   34   20 |    b = Longitudinal
+   20   59  854    1 |    c = Healthy
+   27   18    2  345 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1403   68   10   18 |    a = Transverse
+   91 1290   16   21 |    b = Longitudinal
+    7   14  913    0 |    c = Healthy
+   26   25    0  341 |    d = Alligator
+
+==========================================
+
+BFTree with DS5 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1446   25    4   24 |    a = Transverse
+   32 1351   12   23 |    b = Longitudinal
+    5   12  917    0 |    c = Healthy
+   30   28    0  334 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1225  252   16    6 |    a = Transverse
+  277 1104   36    1 |    b = Longitudinal
+   10   64  860    0 |    c = Healthy
+    1    2    0  389 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1370  100    2   27 |    a = Transverse
+   99 1298    2   19 |    b = Longitudinal
+    1    7  926    0 |    c = Healthy
+   27   23    0  342 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1366  117    3   13 |    a = Transverse
+  131 1240    8   39 |    b = Longitudinal
+    1    4  929    0 |    c = Healthy
+   18   23    0  351 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1338  140    1   20 |    a = Transverse
+  126 1241    8   43 |    b = Longitudinal
+    1    5  928    0 |    c = Healthy
+   12   22    0  358 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1454   28    4   13 |    a = Transverse
+   28 1364   16   10 |    b = Longitudinal
+    9   37  886    2 |    c = Healthy
+   10    9    0  373 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1188  287    2   22 |    a = Transverse
+  263 1141    5    9 |    b = Longitudinal
+    6    7  921    0 |    c = Healthy
+   16    8    0  368 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: IVIS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1378   83   17   21 |    a = Transverse
+   81 1283   37   17 |    b = Longitudinal
+   20   51  862    1 |    c = Healthy
+   20   27    0  345 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1421   53   11   14 |    a = Transverse
+   45 1349   13   11 |    b = Longitudinal
+    5    8  921    0 |    c = Healthy
+   23   24    0  345 |    d = Alligator
+
+==========================================
+
+PART with DS5 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1448   26    3   22 |    a = Transverse
+   27 1362    9   20 |    b = Longitudinal
+    5    9  920    0 |    c = Healthy
+   26   20    0  346 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: LDA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1218  157  121    3 |    a = Transverse
+  251  862  305    0 |    b = Longitudinal
+    7   12  915    0 |    c = Healthy
+    6    2    0  384 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: PCA
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  529  902    9   59 |    a = Transverse
+  265 1068   51   34 |    b = Longitudinal
+    0    3  931    0 |    c = Healthy
+  117   12    0  263 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: PCA-4
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  457  973    9   60 |    a = Transverse
+  217 1129   51   21 |    b = Longitudinal
+    0    3  931    0 |    c = Healthy
+  168    1    0  223 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: SVD
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  456  973    9   61 |    a = Transverse
+  216 1131   51   20 |    b = Longitudinal
+    0    3  931    0 |    c = Healthy
+  168    1    0  223 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: TSNE
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1372   86    4   37 |    a = Transverse
+  123 1269   16   10 |    b = Longitudinal
+    9   70  855    0 |    c = Healthy
+   41    8    0  343 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: MDS
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  473  950    8   68 |    a = Transverse
+  242 1121   37   18 |    b = Longitudinal
+    0    4  930    0 |    c = Healthy
+  159    0    0  233 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: IVIS
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 878 581   5  35 |   a = Transverse
+ 454 937   9  18 |   b = Longitudinal
+  13 140 781   0 |   c = Healthy
+  88   6   0 298 |   d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: PP
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+  590  851    9   49 |    a = Transverse
+  295 1048   51   24 |    b = Longitudinal
+    0    3  931    0 |    c = Healthy
+  123   12    0  257 |    d = Alligator
+
+==========================================
+
+LIBSVM with DS5 and reduction method: DDR4CC
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 1439   19   23   18 |    a = Transverse
+   17 1340   46   15 |    b = Longitudinal
+    1    4  929    0 |    c = Healthy
+   51   89    0  252 |    d = Alligator
+
+==========================================
